@@ -1,19 +1,19 @@
-# Python Port Scanner 🔐
+# Python Port Scanner 
 
 A fast multi-threaded port scanner built using Python.
 
-## 🚀 Features
+## Features
 - Scan multiple ports
 - Fast scanning using threading
 - Detect open ports
 - User input for target
 
-## 🛠 Technologies Used
+## Technologies Used
 - Python
 - Socket Programming
 - Threading
 
-## 📦 Installation
+## Installation
 
 1. Clone the repository:
 git clone https://github.com/yourusername/python-port-scanner.git
@@ -24,17 +24,14 @@ cd python-port-scanner
 3. Run the script:
 python scanner.py
 
-## 📌 Usage
+##  Usage
 
 Enter the target IP or domain when prompted.
 
 Example:
 scanme.nmap.org
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This tool is for educational purposes only. Do not scan unauthorized systems.
 
-## 👨‍💻 Author
-
-Anuj M
